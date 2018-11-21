@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+main{
+    width: 5%;
+    height: 999px;
+    background: #07518c;
+}
+
+.container i{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.fa {
+    height: 30px;
+    width: 30px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.fa.fa-circle{
+    padding-top: 10px;
+    color: #c8e4fe;
+    font-size: 35px;
+}
+
